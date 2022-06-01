@@ -13,12 +13,6 @@
 ## And here is program run test: 
 ![](images/image.png)
 
-
-
-
-
-
-
 ### PART 1 - Class Node.
 The first part was that I follow the structure in the task description of part 1 so implement it in the Node Class.
 ### PART 2 - Print out the names of all the libraries and list the neighbors.
