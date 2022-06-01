@@ -2,7 +2,7 @@
 
 ## Description of java navigation system:
 - It is a navigation system that can most efficiently always find the shortest route between the start  
- point startNode and the destination endNode, and you should use the A * algorithm to solve this.
+ point startNode and the destination endNode, and system should use the A * algorithm to solve this.
 
 - The program should work so that you get a list of all libraries and then you can enter a starting point and a destination. The program then calculates the shortest route (see example driving at the bottom).
 
